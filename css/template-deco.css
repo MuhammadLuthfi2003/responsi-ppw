@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@800&display=swap');
+
+body {
+    overflow-x : hidden;
+}
+
+/*buat navbar*/
+.main-nav {
+    background-color: #cdcdcd;
+    padding:10px 20px !important;
+}
+
+.navbar {
+    margin-top: -1.5vh;
+    top:0 !important;
+    position: sticky !important;
+}
+
+.logotext {
+    font-family: 'Inconsolata', monospace;
+    font-weight:800;
+    color: #888888;
+    font-size: 36px;
+}
+
+/*footer*/
+#footer {
+    background: #cdcdcd;
+    width: 100vw;
+    height: 50vh;
+}
+
+.logo-footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.logo-footer-img {
+    width: 60px;
+    height: 60px;
+}
+
+.logo-footer-txt {
+    font-size: 24px;
+    color: #000000;
+}
+
+.contacts {
+    margin-left : 10px;
+    font-size: 16px;
+    color: #000000;
+}
+

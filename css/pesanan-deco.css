@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.main-content {
+    font-family: 'Inconsolata', monospace;
+}
+
+.data-pesanan, .done-form {
+    padding: 20px 20vw;
+}
+
+.done-title, .order-list {
+    font-weight: 800;
+    font-size: 36px;
+    margin: 20px;
+}
+
+.done-desc {
+    font-weight: 500;
+    font-size: 24px;
+    margin: 20px;
+}

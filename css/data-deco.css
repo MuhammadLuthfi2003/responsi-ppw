@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.list-game {
+    font-family: 'Inconsolata', monospace;
+    
+}
+
+.list-title {
+    margin: 20px 35vw;
+    font-weight: 800;
+    font-size: 36px;
+}
+
+.data-table {
+    padding: 20px 20vw;
+}
+
+.back-btn {
+    margin : 20px 40vw;
+}

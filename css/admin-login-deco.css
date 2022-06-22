@@ -1,0 +1,12 @@
+
+.login-page {
+    background-color: #7bde9f;
+    margin-top: -10px;
+    padding: 10vh 20vw;
+    color: #ffffff;
+}
+
+.login-title {
+    font-size: 36px;
+    font-weight: 500;
+}
